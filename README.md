@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ido1212
+- 👋 Hi, I’m Ido
 - 👀 I’m interested in Video games
-- 🌱 I’m currently learning To be competitive player
-- 💞️ I’m looking to collaborate on Da hood
-- 📫 How to reach me On my discord my discord is faq#7123
+- 🌱 I’m currently learning To script in lua
+- 📫 How to reach me On my discord my discord is xu#4759
 
 <!---
 Ido1212/Ido1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
